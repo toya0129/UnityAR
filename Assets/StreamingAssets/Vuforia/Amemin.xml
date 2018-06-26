@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="ameSea" size="100.000000 99.955414" />
+    <ImageTarget name="ameHiro" size="100.000000 112.301590" />
+    <ImageTarget name="ameYakk" size="100.000000 100.160255" />
+    <ImageTarget name="ameAki" size="100.000000 100.000000" />
+    <ImageTarget name="ameOno" size="100.000000 100.157730" />
+    <ImageTarget name="ameHaru" size="100.000000 99.919090" />
+    <ImageTarget name="ameYan" size="100.000000 177.777771" />
+    <ImageTarget name="ameYui" size="100.000000 100.000000" />
+    <ImageTarget name="ameNaga" size="100.000000 85.708618" />
+  </Tracking>
+</QCARConfig>
