@@ -1,7 +1,7 @@
 # UnityAR
 
 # Development
-Create with Unity.
+this system developed with Unity.
 
 Mapping of AR images is done with Vuforia.(https://developer.vuforia.com/)
 
